@@ -1,3 +1,3 @@
-# Greek Learner Texts Project website
+# Old English Learner Texts Project website
 
-<https://greek-learner-texts.org/>
+<https://old-english-learner-texts.org/>
