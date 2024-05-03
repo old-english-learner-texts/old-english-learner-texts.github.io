@@ -13,6 +13,7 @@ We're just getting started, using the model of the [Greek Learner Texts Project]
 ## Who We Are
 
 * James Tauber
+* Sarah Monnier
 
 ## Joining Us
 
